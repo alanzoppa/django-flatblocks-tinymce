@@ -1,5 +1,7 @@
 django-flatblocks
 =================
+Fork of zerok's django-flatblocks which uses TinyMCE in the content field, 
+only if it's available.
 
 django-flatblocks is a simple application for handling small text-blocks on
 websites. Think about it like ``django.contrib.flatpages`` just not for a 
